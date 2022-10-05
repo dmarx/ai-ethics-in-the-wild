@@ -49,3 +49,4 @@ some stuff that's worth talking about
 * https://github.com/EthicalML/awesome-artificial-intelligence-guidelines
 * https://dataethicsclub.com/reading-list.html
 * https://github.com/fastai/ethics.fast.ai
+* https://github.com/skullface/ethics-notes
