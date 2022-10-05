@@ -3,6 +3,11 @@
 some stuff that's worth talking about
 
 
+# We should have known better
+
+* 2016 - Microsoft releases a twitter bot with the intention that it will learn conversational skills throuhg twitter itneractions. Within a few hours, the model has firmly trained into a racist troll - https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist
+
+
 # Should we even optimize this task?
 
 * 2020 - Februry - YOLO author halts their CV research due to ethical concers: https://www.reddit.com/r/MachineLearning/comments/f8wsyg/nd_yolo_creator_joseph_redmon_stopped_cv_research/fioy6nb/?context=3
