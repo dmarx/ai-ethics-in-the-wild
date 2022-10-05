@@ -47,3 +47,4 @@ some stuff that's worth talking about
 
 * https://github.com/natolambert/robot-ethics-books
 * https://github.com/EthicalML/awesome-artificial-intelligence-guidelines
+* https://dataethicsclub.com/reading-list.html
