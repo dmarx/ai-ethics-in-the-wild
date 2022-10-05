@@ -1,4 +1,4 @@
-# ai-ethics-in-the-wild
+# AI Ethics In The Wild
 
 some stuff that's worth talking about
 
