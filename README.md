@@ -50,3 +50,4 @@ some stuff that's worth talking about
 * https://dataethicsclub.com/reading-list.html
 * https://github.com/fastai/ethics.fast.ai
 * https://github.com/skullface/ethics-notes
+* https://ethicalcs.github.io/
