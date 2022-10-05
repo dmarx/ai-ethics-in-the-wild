@@ -46,3 +46,4 @@ some stuff that's worth talking about
 # Other AI Ethics lists
 
 * https://github.com/natolambert/robot-ethics-books
+* https://github.com/EthicalML/awesome-artificial-intelligence-guidelines
