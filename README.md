@@ -27,3 +27,12 @@ some stuff that's worth talking about
 # On Invention, novelty, and utility
 
 * Schmidhuber's claims that everything is derivative of his lab's work
+
+* Google patents dropout, the ML community gets worried but continues to rely on it anyway - https://patents.google.com/patent/US9406017B2/en
+* Google claims patent on CNN several years after publication and wide adoption - https://patents.google.com/patent/WO2017129325A1/en
+
+
+
+# Economic Fairness
+
+* (via @rom1504) Geographic distribution of data centers underserves less developed nations. The rich get richer.
