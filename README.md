@@ -42,3 +42,7 @@ some stuff that's worth talking about
 # Economic Fairness
 
 * (via @rom1504) Geographic distribution of data centers underserves less developed nations. The rich get richer.
+
+# Other AI Ethics lists
+
+* https://github.com/natolambert/robot-ethics-books
