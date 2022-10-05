@@ -17,7 +17,7 @@ some stuff that's worth talking about
 
 # Are these artifacts dangerous?
 
-* 2020-2021 ? - OpenAI witholds GPT-2, GPT-3, DALL-E checkpoints over safety concerns (checkpoints are later released unmodified)
+* 2020-2021 ? - OpenAI witholds GPT-2, CLIP checkpoints over safety concerns. Checkpoints are later released unmodified (GPT-3 and DALL-E still unreleased, but seemingly for commercial opportunity rather than safety concerns)
 
 * 2022 - August - The publc release of stable diffusion stirs concerns in the professional art community and attracts criticism over safety concerns
 
@@ -37,7 +37,6 @@ some stuff that's worth talking about
 
 * Google patents dropout, the ML community gets worried but continues to rely on it anyway - https://patents.google.com/patent/US9406017B2/en
 * Google claims patent on CNN several years after publication and wide adoption - https://patents.google.com/patent/WO2017129325A1/en
-
 
 
 # Economic Fairness
