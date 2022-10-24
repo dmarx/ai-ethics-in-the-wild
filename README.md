@@ -42,6 +42,9 @@ some stuff that's worth talking about
 * Google patents dropout, the ML community gets worried but continues to rely on it anyway - https://patents.google.com/patent/US9406017B2/en
 * Google claims patent on CNN several years after publication and wide adoption - https://patents.google.com/patent/WO2017129325A1/en
 
+## IP
+
+* 2022 github copilot recites non-freely licensed code: https://twitter.com/DocSparse/status/1581461734665367554
 
 # Economic Fairness
 
