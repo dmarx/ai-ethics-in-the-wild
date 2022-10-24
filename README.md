@@ -44,7 +44,7 @@ some stuff that's worth talking about
 
 ## IP
 
-* 2022 github copilot recites non-freely licensed code: https://twitter.com/DocSparse/status/1581461734665367554
+* 2022 github copilot recites code that requires transmittance of license: https://twitter.com/DocSparse/status/1581461734665367554
 
 # Economic Fairness
 
