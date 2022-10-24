@@ -12,6 +12,10 @@ some stuff that's worth talking about
 
 * 2020 - Februry - YOLO author halts their CV research due to ethical concers: https://www.reddit.com/r/MachineLearning/comments/f8wsyg/nd_yolo_creator_joseph_redmon_stopped_cv_research/fioy6nb/?context=3
 
+## Facial Recognition
+
+* 2022 - https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown
+
 * 2019? - The CV community learns China is driving facial detection research to apply to racial oppression - https://www.nytimes.com/2019/04/14/technology/china-surveillance-artificial-intelligence-racial-profiling.html 
 
 
