@@ -19,6 +19,8 @@ some stuff that's worth talking about
 * 2019? - The CV community learns China is driving facial detection research to apply to racial oppression - https://www.nytimes.com/2019/04/14/technology/china-surveillance-artificial-intelligence-racial-profiling.html 
 
 
+
+
 # Are these artifacts dangerous?
 
 * 2020-2021 ? - OpenAI witholds GPT-2, CLIP checkpoints over safety concerns. Checkpoints are later released unmodified (GPT-3 and DALL-E still unreleased, but seemingly for commercial opportunity rather than safety concerns)
@@ -49,6 +51,10 @@ some stuff that's worth talking about
 # Economic Fairness
 
 * (via @rom1504) Geographic distribution of data centers underserves less developed nations. The rich get richer.
+
+# Impacts to education
+
+* 2022 - Teachers and students in an adversarial game to design homework prompts that can't be trivially solved with a LLM service: https://twitter.com/ShannonVallor/status/1582071903279538177
 
 # Other AI Ethics lists
 
