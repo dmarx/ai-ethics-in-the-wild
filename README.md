@@ -56,6 +56,10 @@ some stuff that's worth talking about
 
 * 2022 - Teachers and students in an adversarial game to design homework prompts that can't be trivially solved with a LLM service: https://twitter.com/ShannonVallor/status/1582071903279538177
 
+# The panopticon is already here
+
+* 2023 - TikTok used app location data to identify employees who were likely leak sources to journalists https://twitter.com/ebakerwhite/status/1606020524122832897
+
 # Other AI Ethics lists
 
 * https://github.com/natolambert/robot-ethics-books
